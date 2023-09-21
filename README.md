@@ -1,4 +1,4 @@
 - 👋 Olá, Meu nome é @jorgegabriel
-- 👀  Estou pretendendo trabalhar com Front-end
-- 🌱 Estou atualmente estudando HTML, CSS , JS e PYTHON
+- 👀  Estou me desenvolvendo na área Front-end e em busca de uma oportunidade de trabalho
+- 🌱 Estou atualmente estudando REACT, JS, HTML e CSS
 - 📫 contate-me no email: jgnf.25@gmail.com
