@@ -1,4 +1,14 @@
-- 👋 Olá, Meu nome é @jorgegabriel
-- 👀  Estou me desenvolvendo na área Front-end e em busca de uma oportunidade de trabalho
-- 🌱 Estou atualmente estudando REACT, JS, HTML e CSS
-- 📫 contate-me no email: jgnf.25@gmail.com
+# Olá, Meu nome é @jorgegabriel👋
+( React | JavaScript | HTML | CSS | FIGMA ) 🚀
+- Futuro Desenvolvedor Web!
+- Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻
+- Gosto de resolver problemas
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-gabriel-48537a1b2)[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.youtube.com/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgegabrie&show_icons=true&theme=merko)
+----------------------------------------------------
+## Tecnologias que trabalho:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegabrie&layout=compact)
+
