@@ -1,6 +1,6 @@
 # Olá, Meu nome é @jorgegabriel👋
 ( React | JavaScript | HTML | CSS | FIGMA ) 🚀
-- Futuro Desenvolvedor Web!
+- Futuro Desenvolvedor Front-End!
 - Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍💻
 - Gosto de resolver problemas
 
